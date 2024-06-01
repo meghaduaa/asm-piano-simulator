@@ -7,7 +7,8 @@ The project's abstracted goal is to demonstrate the proficiency of ASM in crafti
 Through this endeavor, users can explore and refine their musical skills in a digital environment that closely mimics the nuances of playing a genuine piano. 
 The ASM-Piano Simulation project endeavors to harmonize technological innovation with musical expression, creating an engaging fusion of art and programming.
 # tools
-TASM - Turbo Assembler
+TASM 
+
 DosBox
 
 # output
